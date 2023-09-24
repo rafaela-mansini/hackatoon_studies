@@ -1,0 +1,12 @@
+{
+    "name": "mansini/hackatoon_studies",
+    "authors": [
+        {
+            "name": "Rafaela Mansini",
+            "email": "rafaela_mansini@hotmail.com"
+        }
+    ],
+    "require": {
+        "nlp-tools/nlp-tools": "^0.1.3"
+    }
+}
